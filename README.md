@@ -70,7 +70,7 @@ Using **SQL** for data transformation and analysis, a **business report** for do
 ## 📬 Contact
 - **Email:** farombidotun95@gmail.com  
 - **GitHub:** [Dotun95](https://github.com/Dotun95)  
-- **LinkedIn:** [Dotun Farombi](www.linkedin.com/in/dotun-farombi-a09b762b4)  
+- **LinkedIn:** [Dotun Farombi](https://www.linkedin.com/in/dotun-farombi-a09b762b4)  
 
 ---
 
