@@ -17,10 +17,9 @@ Using **SQL** for data transformation and analysis, a **business report** for do
 ---
 
 ## 📂 Project Structure
-- `SQL_Script.sql` → Queries for cleaning and analyzing absenteeism data  
-- `Business_Report.pdf` → Detailed report summarizing findings and recommendations  
-- `PowerBI_Dashboard.pbix` → Interactive Power BI dashboard  
-- `Dashboard_Preview.png` → Screenshot of the Power BI dashboard  
+- `Absenteeism.sql` → Queries for cleaning and analyzing absenteeism data  
+- `Absenteeism Business Report.pdf` → Detailed report summarizing findings and recommendations    
+- `Dashboard_Preview.png` →  Power BI dashboard  
 - `README.md` → Project documentation  
 
 
