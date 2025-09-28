@@ -60,8 +60,8 @@ Using **SQL** for data transformation and analysis, a **business report** for do
 ---
 
 ## 📥 How to Use
-1. Run the `SQL_Script.sql` file in your SQL environment to clean and prepare the data.  
-2. Open `PowerBI_Dashboard.pbix` in Power BI Desktop.  
+1. Run the `Absenteeism.sql` file in your SQL environment to clean and prepare the data.  
+2. Open `Dashboard preview` to preview Power BI Dashboard.  
 3. Read `Business_Report.pdf` for project findings and recommendations.  
 
 ---
